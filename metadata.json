@@ -1,0 +1,6 @@
+{
+  "name": "Radian Platform - UI/UX Portfolio Showcase",
+  "description": "Product Design & UX portfolio case study featuring the Radian Learning Center platform with interactive high-fidelity prototypes, live seat management, and comprehensive process documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
